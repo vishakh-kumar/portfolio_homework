@@ -1,0 +1,12 @@
+[
+    {
+        "name": "World News",
+        "git": "https://github.com/vishakh-kumar/world-news",
+        "live": "https://vishakh-kumar.github.io/world-news/"
+    },
+    {
+        "name": "Travel Log",
+        "git": "https://github.com/vishakh-kumar/travel-log",
+        "live": "https://v-travel-log.herokuapp.com/"
+    }
+]
